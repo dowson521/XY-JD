@@ -23,6 +23,11 @@ Rocket.chat GITHUB: https://github.com/RocketChat/Rocket.Chat
 
 4.每周有20到25小时的工作时间介入到我们的项目中。
 
+**您的工作职责：**
+
+承担Rocket.chat二次开发的主要服务端的工作和非常小部分的前端工作。
+
+
 **我们会提供：**
 
 1.根据您对项目贡献的程度，每月按时支付给您至少10K以上的薪酬。
