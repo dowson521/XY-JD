@@ -36,6 +36,8 @@ Rocket.chat GITHUB: https://github.com/RocketChat/Rocket.Chat
 
 3.季度奖金。每季度末发放。
 
+4.所有开发需要用到的服务器，环境，书籍等。
+
 **您如何介入：**
 
 请在此项目留言或者添加我的微信：ZG93c29uXzUyMQ==
