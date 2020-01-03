@@ -6,6 +6,7 @@
 此次项目背景为基于rocket.chat进行企业级二次开发的内容，关于rocket.chat您可以从https://rocket.chat 去了解，简单说就是一个企业级的全平台的内部即时通讯工具，使用起来又有些像slack，也有些像Discordapp。我们团队非常喜欢Discordapp的理念，但是想自己开发一套符合我们内部业务的即时通讯工具。故而产生了这个项目。我们会在项目初期尽量借鉴Discord的产品理念进行改进我们自己的产品。所以您的工作在前期是方向明确的。
 
 Rocket.chat官网：https://rocket.chat
+
 Rocket.chat GITHUB: https://github.com/RocketChat/Rocket.Chat
 
 **项目周期：**
