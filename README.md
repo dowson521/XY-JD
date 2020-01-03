@@ -40,7 +40,7 @@ Rocket.chat GITHUB: https://github.com/RocketChat/Rocket.Chat
 
 请在此项目留言或者添加我的微信：ZG93c29uXzUyMQ==
 
-您需要通过rocket.chat 代码仓库clone一份代码并在本地运行一份开发环境，包括mongoDB,就当是一个小小的测试吧，如果这项您无法通过，我们大家也不必浪费时间沟通了：）
+您需要通过rocket.chat 代码仓库clone一份代码并在本地运行一份开发环境，包括搭建一个本地mongoDB环境,就当是一个小小的测试吧，如果这项您无法通过，我们大家也不必浪费时间沟通了：）
 
 并参考discordapp给出两者在使用上的主要差别。如果要把discord的部分功能整合到rocket chat中，您是否有相应的方案？
 
